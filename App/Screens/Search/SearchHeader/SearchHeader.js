@@ -9,7 +9,7 @@ import { i18n } from '../../../localization';
 import * as theme from '../../../utils/theme';
 
 export class SearchHeader extends PureComponent {
-  render () {
+  render() {
     const { onChangeSearch, search } = this.props;
     return (
       <Banner elevated shadowPosition="bottom">
