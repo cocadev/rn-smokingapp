@@ -51,12 +51,9 @@ export const RootStore = types
       self.api = newApi;
     },
     setError (newError) {
-      // TODO Add sentry
-      // https://github.com/amaurymartiny/shoot-i-smoke/issues/22
       self.error = newError;
     },
     reloadApp () {
-      // This will reload the app
       self.location.setCurrent();
     }
   }));

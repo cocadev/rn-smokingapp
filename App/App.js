@@ -1,8 +1,6 @@
 import React, { PureComponent } from 'react';
 import { Provider } from 'mobx-react';
-import Sentry from 'sentry-expo';
 import * as Font from 'expo-font';
-import Constants from 'expo-constants';
 
 import { RootStore } from './stores';
 import { Background as LoadingBackground } from './Screens/Loading/Background';
@@ -14,9 +12,6 @@ const stores = RootStore.create({
   location: {}
 });
 
-if (Constants.manifest.extra.sentryPublicDsn) {
-  Sentry.config(Constants.manifest.extra.sentryPublicDsn).install();
-}
 
 export class App extends PureComponent {
   state = {
