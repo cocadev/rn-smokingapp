@@ -1,4 +1,4 @@
-<h1 align="center"><b> Non - Smoking App</b> </h1>
+<h1 align="center"><b> Non - Smoking RN App</b> </h1>
 
 <h1 align="center">
   <br>
