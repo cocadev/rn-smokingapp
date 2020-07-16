@@ -74,8 +74,8 @@ So we created this quick application for you to know how many cigarettes you are
 
 #### 1) Clone & Install Dependencies
 
-- 1.1) `git clone https://github.com/funnyjerry/https://github.com/funnyjerry/react-native-smoking-app.git`
-- 1.2) `cd https://github.com/funnyjerry/react-native-smoking-app` - cd into your newly created project directory.
+- 1.1) `git clone https://github.com/kingofdevs/rn-smoking.git`
+- 1.2) `cd https://github.com/kingofdevs/rn-smoking` - cd into your newly created project directory.
 - 1.3) Install NPM packages with `yarn install`
         **Note:** NPM has issues with React Native so `yarn` is recommended over `npm`.
 - 1.4) **[iOS]** `cd ios` and run `pod install` - if you don't have CocoaPods you can follow [these instructions](https://guides.cocoapods.org/using/getting-started.html#getting-started) to install it.
