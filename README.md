@@ -1,4 +1,4 @@
-<h1 align="center"><b> Non - Smoking React Native App</b> </h1>
+<h1 align="center"><b> Non-Smoking React Native App</b> </h1>
 
 <p align="center">Know how many cigarettes you smoke based on the pollution of your location.</p>
 
