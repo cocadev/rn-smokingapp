@@ -2,8 +2,6 @@
 
 <p align="center">Know how many cigarettes you smoke based on the pollution of your location.</p>
 
-<p align="center"><i>"How to save a life?" - The Smoking</i> </p>
-
 <p align="center">
   <a href="http://makeapullrequest.com">
     <img src="https://img.shields.io/badge/progress-40%25-brightgreen.svg" alt="PRs Welcome">
